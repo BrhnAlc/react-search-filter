@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+       "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAHGQEAFR9NeRFrKD-m_eluU9LpIcCjXK2lA&usqp=CAU",
+       "title":"Mehmet Karahanlı (Baron)",
+       "description" :"-Kurtlar konseyini yöneten kişiydi- Aslan akbey karahanlı yüzünden ölen kardeşinin intikamını almak için oğlu efeyi kaçırıp ali olarak yetiştirdi polat olarakta karahanlının imparatorluğunu çökertmesi için vadiye sürdü, polat karahanlının babası olduğunu öğrenince yapamadı karahanlıda polatın oğlu olduğunu öğrendiği gün yeni çağa ayak uyduramaması gerekçesiyle tapınakçılar tarafından öldürüldü"
+
+    },
+    {
+        "id":2,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPvW-xZviswvwnRSLTMgnTkf9BOBDg8Dhvdg&usqp=CAU",
+        "title":"Kılıç",
+        "description":"Diğer konsey üyeleri gibi görev dağılımında yoktu kılıç mehmet karahanlının yardımcısı ve ilerki dönemde baron vekili olarak karahanlıdan sonra konseyde en yetkili 2.isim olarak duruyordu nizamettin güvenç tarafından kendi çakısıyla ölürülmüştür"
+    },
+    {
+        "id":3,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEL-KJroOEXE97J5OPYi9Ddf-4usxu8jLIuw&usqp=CAU",
+        "title":"Laz Ziya",
+        "description":"Konsey üyeleri arasında sözü geçen en yetkili üyelerin başında geliyordu silah kaçakcılığılını yönetiyordu süleyman çakırın kayınpederidir oy asiye türküsü ile vadide ünlenmiştir polat alemdarında bir çok defa hayatını kurtarmıştır. nizamettin güvenç tarafındn hapishanede şişlenerek öldürüldü"
+    },
+    {
+        "id":4,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwHLXEEk_NF19JaA79pc_TsCGRwhJmoQH1FQ&usqp=CAU",
+        "title":"Hüsrev Ağa",
+        "description":"Konseyde uyuşturucu görevini üstleniyordu laz ziyanın konseyde en iyi dostu ve birlikte hareket ediyorlardı hüsrevinde polat alemdara çok yardımı dokunmuştur mehmet karahanlıya karşı geldiği için kılıç öldüldü kılıçla"
+    },
+    {
+        "id":5,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKXkQamAtRTXyyeEH2tgNHqibOZQC0TONdw&usqp=CAU",
+        "title":"Testere Necmi",
+        "description":"İnfaz işine bakıyordu Çakırın patronuydu ve laz ziyanında düşmanı konseyin en tehrikeli üyesiydi çakırı öldürttüğü için polat alemdarla düşman oldular rus ivanovla anlaşıp polatı öldürmeye çalıştı ama başaramadı polat necmiyi yakalayıp aslan amcaya verdi aslanı pala öldürünce necminin bulunduğu yer patladı ve öldü"
+    },
+    {
+        "id":6,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiYI9BEPecOxiLbgSxQQAt5zkF0l8L7eGwiA&usqp=CAU",
+        "title":"Tombalacı Mehmet",
+        "description":"Kumarhaneden Sorumluydu- testere necmininde adamıydı çakırın kumarhanesini bastı elifi polatı yaraladı derya çakırı ise öldürüp süleyman çakırın hapishanede kalmasını sağladı polatıda karısı ele geçirdi ama polat kurtuldu karahanlının yardımıyla tomlabalacıyı yakaladılar ve süleyman çakır tarafından öldürüldü"
+    },
+    {
+        "id":7,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifvfztdhyO-b7iLf0yENReNWeY9frb33cyA&usqp=CAU",
+        "title":"Nizamettin Güvenç",
+        "description":"Avukat- Nizamettin karahanlıyı öldüren gizli güç tarafından görevlendirilip elif eylül iplikçi nedim laz ziya samuel gibi karakterlerin ölümünde rol oynamıs kılıcıda kendi öldürmüştür polat nizamettini asarak öldürdü"
+    },
+    {
+        "id":8,
+        "image":"http://i.ytimg.com/vi/Dv2-zG-ZIms/hqdefault.jpg",
+        "title":"Deve Tuncay",
+        "description":"Konseyin bankasıydı herkes parasını ona emanet ederdi ıhlamur içmesiyle ve komik konuşmasıyla tanınır hüsrev,necmi,tombalacı gibi kişiler ölünce oda tuncayla sonradan konseye geldi nizamettin tarafından öldü"
+    }
+]
