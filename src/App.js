@@ -17,8 +17,7 @@ function App() {
         if(konsey===""){
           return value;
 
-        }else
-          if(value.title.toLocaleLowerCase().includes(konsey.toLocaleLowerCase()))
+        }else if(value.title.toLocaleLowerCase().includes(konsey.toLocaleLowerCase()))
         {
       return value;
       }
